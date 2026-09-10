@@ -5,7 +5,7 @@ const app = express();
 
 const botArgs = {
   host: 'playnextsmp.aternos.me',
-  port: 25565,                         
+  port: 64178,                         
   username: 'AFK_Bot_247',
   version: '1.20.4'                    /
 };
