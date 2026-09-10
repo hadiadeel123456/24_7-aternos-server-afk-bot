@@ -7,7 +7,7 @@ const botArgs = {
   host: 'playnextsmp.aternos.me',
   port: 25565,                         
   username: 'AFK_Bot_247',
-  version: '1.21.11'                    /
+  version: '1.20.4'                    /
 };
 
 function createBot() {
